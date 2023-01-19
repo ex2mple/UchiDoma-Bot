@@ -41,4 +41,4 @@ async def cat(ctx):
     await ctx.respond(f'https://cataas.com{response["url"]}')
 
 
-bot.run('MTA2NTAwNTIyMTEzMjExMTk0Mw.GpxVOT.TXBUn74UtJcAuVGPlaXPUOcZ2lHmZ05hB2Xw1A')
+bot.run('YOUR TOKEN')
